@@ -1,0 +1,64 @@
+.header {
+    background-color:rgba(85, 255, 161, 0.664);
+    height: 200px;
+    display: flex;
+    margin: auto;
+    border: 2px rgba(85, 255, 161, 0.664) solid;
+
+}
+
+a img {
+    height: 200px;
+    width: 200px;
+    border: 2px rgba(85, 255, 161, 0.664) solid;
+}
+.menu {
+    display: flex;
+    font-size: larger;
+    text-align: center;
+    width: 1000px;
+    margin: auto;
+   
+    
+}
+
+h1 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    font-weight:900;
+
+    background-image: url(images/plastique1.png);
+    height: 83px;
+    text-align: center;
+    padding-top:50px;
+    margin: auto;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+}
+
+#map { 
+    height: 500px; 
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+    line-height: 60px;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0 40px;
+    background: rgba(117, 226, 253, 0.726);
+    border: black solid;
+    text-align: center;
+    margin-left: 590px;
+  }
+  button:hover {
+    background: rgba(78, 178, 245, 0.774);
+  }
